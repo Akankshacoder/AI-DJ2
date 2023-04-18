@@ -1,0 +1,27 @@
+#heading{
+    width: 100%;
+    margin: 0px;
+    padding: 10px;
+    font-size: 22px;
+}
+h3 span{
+    color: red;
+    font-size: 20px;
+}
+body{
+    background: url("background.jpg");
+}
+#fr{
+    float: right;
+}
+#fr img, #fl img{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+}
+#fl{
+    float: left;
+}
+canvas{
+    border: 5px solid  whitesmoke;
+}
